@@ -250,7 +250,6 @@ input[type=submit] {
 @media screen and (max-width: 768px) {
     #main-container {
         max-width: 85%;
-        align: center;
 
     }
 }
@@ -277,7 +276,8 @@ input[type=submit] {
 
     img.auth-image {
         width: 100%;
+        
     }
 
-    
+
 }
